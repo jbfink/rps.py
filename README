@@ -1,0 +1,11 @@
+Learning python, baby steps.  A philosophical port from my Ruby rps.
+
+Items to do:
+Get an input
+figure out python equivalent to chomp.upcase
+define an array of valid inputs (RPS)
+Figure out random (random.randint?)
+match random to array (like 0=R,1=P,S=2) for computer guess
+define function for rps rules
+match user input to computer guess to see who wins!
+
