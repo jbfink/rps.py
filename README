@@ -9,3 +9,6 @@ match random to array (like 0=R,1=P,S=2) for computer guess
 define function for rps rules
 match user input to computer guess to see who wins!
 
+possible bumps:
+python 2.x or python 3?
+
